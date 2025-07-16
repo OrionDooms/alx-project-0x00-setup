@@ -1,3 +1,9 @@
+
 export interface PillProps {
-  title: string
+	title: string
+}
+
+export interface BtnProps {
+	title: string;
+	styles: string;
 }
